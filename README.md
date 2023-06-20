@@ -1,5 +1,9 @@
-### TikTok project
+#### TikTok project
 Esse projeto utiliza javascript, react e integração com o Firebase para hospedagem e armazenamento de dados. 
 
-### Link para o projeto:
-https://tiktok---jornada-388af.web.app/
+<p>link para
+<a href="https://tiktok---jornada-388af.web.app/">projeto on-line</a>.
+</p>
+
+
+
